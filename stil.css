@@ -25,6 +25,8 @@ h1,h2,h3{font-family:"Literata Display",Georgia,serif;font-weight:560;letter-spa
 .cta{display:inline-flex;align-items:center;gap:10px;margin:26px 0 8px;height:54px;padding:0 24px;border-radius:27px;background:var(--cream);color:#2B2438;font-weight:650;text-decoration:none;font-size:16.5px}
 .cta small{font-weight:500;opacity:.7}
 .note{font-size:14px;opacity:.85}
+.follow{font-size:14px;opacity:.85;margin-top:6px}
+.follow a{text-decoration-color:rgba(255,244,230,.45)}
 .phone{width:100%;max-width:320px;border-radius:40px;box-shadow:0 30px 60px rgba(15,12,30,.35),0 0 0 8px #14121c;display:block;margin:0 auto}
 .hero .phone{margin-bottom:-60px}
 .kobben{position:relative}
