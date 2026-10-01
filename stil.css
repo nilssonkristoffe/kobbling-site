@@ -24,6 +24,9 @@ h1,h2,h3{font-family:"Literata Display",Georgia,serif;font-weight:560;letter-spa
 .hero .lead{font-size:clamp(17px,2.1vw,20px);line-height:1.5;opacity:.95;max-width:30em}
 .cta{display:inline-flex;align-items:center;gap:10px;margin:26px 0 8px;height:54px;padding:0 24px;border-radius:27px;background:var(--cream);color:#2B2438;font-weight:650;text-decoration:none;font-size:16.5px}
 .cta small{font-weight:500;opacity:.7}
+.store{display:inline-block;margin:26px 0 8px;line-height:0;border-radius:10px}
+.store img{height:54px;width:auto;display:block}
+.store.dark{margin-top:22px}
 .note{font-size:14px;opacity:.85}
 .follow{font-size:14px;opacity:.85;margin-top:6px}
 .follow a{text-decoration-color:rgba(255,244,230,.45)}
